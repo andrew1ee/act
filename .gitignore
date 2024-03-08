@@ -6,6 +6,8 @@ data
 data_local
 .vscode
 _wandb
+runs
+commands.md
 
 **/.DS_Store
 
